@@ -1,0 +1,3 @@
+# techsim
+lua file
+THIS IS A LUA FILE AND THERE IS LUA FILES PLS SCAN YOU PC AFTER YOU USE THIS (you have been WARNED)
